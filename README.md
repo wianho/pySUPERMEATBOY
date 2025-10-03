@@ -2,6 +2,10 @@
 
 A Super Meat Boy-inspired platformer game built with Python and Pygame.
 
+![Game Screenshot](screenshot.png)
+
+*Jump across platforms, avoid the gap, and reach the green goal!*
+
 ## Features
 
 - Gravity-based physics
